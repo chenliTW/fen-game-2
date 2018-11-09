@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1541763967 source:c:\users\chen\desktop\getcoin\main.cpp
+	"fn.h"
+
+1541761597 c:\users\chen\desktop\getcoin\fn.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<queue>
+
+1541763875 source:c:\users\chen\desktop\getcoin\fn.cpp
+	"fn.h"
+
